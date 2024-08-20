@@ -5,6 +5,7 @@ D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\NZWalks.API.deps
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\NZWalks.API.runtimeconfig.json
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\NZWalks.API.dll
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\NZWalks.API.pdb
+D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\AutoMapper.dll
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\Azure.Core.dll
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\Azure.Identity.dll
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\Humanizer.dll
@@ -120,6 +121,7 @@ D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.Asse
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.csproj.CoreCompileInputs.cache
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.MvcApplicationPartsAssemblyInfo.cs
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.sourcelink.json
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\staticwebassets.build.json
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\staticwebassets.development.json
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\staticwebassets\msbuild.NZWalks.API.Microsoft.AspNetCore.StaticWebAssets.props
@@ -134,4 +136,3 @@ D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\refint\NZWalks.A
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.pdb
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.genruntimeconfig.cache
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\ref\NZWalks.API.dll
-D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.sourcelink.json
