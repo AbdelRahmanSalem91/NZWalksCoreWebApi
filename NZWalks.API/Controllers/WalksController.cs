@@ -20,9 +20,11 @@ namespace NZWalks.API.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> GetAll()
+        public async Task<IActionResult> GetAll([FromQuery] string? filterOn, [FromQuery] string? filterQuery, 
+            [FromQuery] string? sortBy = null, [FromQuery] bool? isAscending = true,
+            [FromQuery] int pageNumber = 1, [FromQuery] int pageSize = 10)
         {
-            List<Walk> walks = await _db.GetAllAsync();
+            List<Walk> walks = await _db.GetAllAsync(filterOn, filterQuery, sortBy, isAscending ?? true, pageNumber, pageSize);
 
             if (walks.Count == 0)
             {
