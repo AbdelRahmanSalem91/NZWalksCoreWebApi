@@ -1,3 +1,11 @@
+D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.csproj.AssemblyReference.cache
+D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.AssemblyInfoInputs.cache
+D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.AssemblyInfo.cs
+D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.csproj.CoreCompileInputs.cache
+D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.sourcelink.json
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\appsettings.Development.json
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\appsettings.json
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\NZWalks.API.exe
@@ -9,6 +17,10 @@ D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\AutoMapper.dll
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\Azure.Core.dll
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\Azure.Identity.dll
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\Humanizer.dll
+D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -21,6 +33,9 @@ D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.Entity
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
@@ -114,14 +129,6 @@ D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\runtimes\win\lib
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.csproj.AssemblyReference.cache
-D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.GeneratedMSBuildEditorConfig.editorconfig
-D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.AssemblyInfoInputs.cache
-D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.AssemblyInfo.cs
-D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.csproj.CoreCompileInputs.cache
-D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.MvcApplicationPartsAssemblyInfo.cs
-D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.MvcApplicationPartsAssemblyInfo.cache
-D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.sourcelink.json
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\staticwebassets.build.json
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\staticwebassets.development.json
 D:\Programming\API\MyRepos\NZWalks\NZWalks.API\obj\Debug\net8.0\staticwebassets\msbuild.NZWalks.API.Microsoft.AspNetCore.StaticWebAssets.props

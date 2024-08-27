@@ -1,4 +1,4 @@
-﻿using NZWalks.API.Models;
+﻿using NZWalks.API.Models.Domain;
 
 namespace NZWalks.API.Repositories
 {
